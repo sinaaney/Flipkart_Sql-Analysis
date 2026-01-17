@@ -1,0 +1,7 @@
+-- Data imported using MySQL Workbench Table Data Import Wizard
+-- Tables:
+-- customers
+-- orders
+-- order_items
+-- payments
+-- products
